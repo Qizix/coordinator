@@ -173,5 +173,5 @@ class Setpoint(Coordinator):
         return randint(1, 3)
 
     def _check_optimality_criteria(self, setpoint, system_model, desired_states):
-        # ... реалізація перевірки критерію оптимальності
+        # ... реалізація перевірки критерію оптимальності   3 24234234 23
         return randint(1, 3)
